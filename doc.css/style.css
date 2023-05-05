@@ -1,0 +1,13 @@
+section{   /*Isso é um seletor geral*/
+    background-color: blue; /*Isso é uma propriedade de cor*/
+    width: 300px; /*Propiedade de tamanho*/
+    height: 300px;
+    display: flex; /*Propriedade para mudar de lugar*/
+    justify-content: space-around;
+}
+div{
+    background-color: burlywood;
+    width: 50px;
+    height: 50px;
+    margin: 5px; /*Propriedade de espaço*/
+}
